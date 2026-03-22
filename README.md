@@ -83,17 +83,17 @@
 
 <tr>
 <td>LeetCode</td>
-<td><a href="#">Add Link</a></td>
+<td><a href="#">https://leetcode.com/u/sarthak90884/</a></td>
 </tr>
 
 <tr>
 <td>GeeksforGeeks</td>
-<td><a href="#">Add Link</a></td>
+<td><a href="#">https://www.geeksforgeeks.org/profile/sarthakkzp6</a></td>
 </tr>
 
 <tr>
 <td>CodeChef</td>
-<td><a href="#">Add Link</a></td>
+<td><a href="#">https://www.codechef.com/users/sarthak90884</a></td>
 </tr>
 
 </table>
