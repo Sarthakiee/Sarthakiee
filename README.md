@@ -1,7 +1,7 @@
 <!-- 🔥 ANIMATED HEADER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Sarthak;CSE+Student;Backend+Developer;Python+%7C+Java+%7C+Flask;Building+Impactful+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Sarthak;CSE+Student;Backend+%7C+Python+%7C+Java;Building+Real+World+Projects" />
 </h1>
 
 ---
@@ -9,21 +9,23 @@
 ## 🌌 About Me
 
 * 👨‍💻 CSE Student
-* 🔍 Focused on **Backend + Machine Learning**
-* ⚡ Love solving problems & building real apps
-* 🤝 Open to collaborations
+* 🔍 Interested in **Backend + Machine Learning**
+* 🌱 Currently learning **DSA & System Design**
+* 🤝 Open for collaboration
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthakiee&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Sarthakiee&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
+
+### 🚀 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,html,css,git,github" />
@@ -44,14 +46,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarthakiee&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -60,60 +54,65 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sarthakiee/Sarthakiee/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🧠 Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
 ### ❤️ Heart Disease Prediction
 
-🔹 ML model to predict heart disease
-🔹 Web app using Flask
+🔹 Predicts heart disease using ML models
+🔹 Built with Flask for web deployment
 
-**Tech:** Python • Flask
+**Tech Stack:** Python, Flask
 
-</div>
-
----
-
-## 📊 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_ID?theme=dark&font=Fira+Code&ext=heatmap" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Competitive Coding
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/></a>
-</p>
+<table>
+<tr>
+<th>Platform</th>
+<th>Profile</th>
+</tr>
+
+<tr>
+<td>LeetCode</td>
+<td><a href="#">Add Link</a></td>
+</tr>
+
+<tr>
+<td>GeeksforGeeks</td>
+<td><a href="#">Add Link</a></td>
+</tr>
+
+<tr>
+<td>CodeChef</td>
+<td><a href="#">Add Link</a></td>
+</tr>
+
+</table>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/Sarthakiee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Sarthakiee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## ⚡ Quote
+## ⚡ Fun Line
 
 <p align="center">
-  🚀 "Consistency beats talent when talent doesn’t work hard."
+  ⭐ Building the future, one commit at a time 🚀
 </p>
