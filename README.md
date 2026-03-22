@@ -1,73 +1,118 @@
-# 🌟 Sarthakiee
+<!-- 🔥 ANIMATED HEADER -->
 
-### 💻 CSE Student | Developer | Problem Solver
-
----
-
-## 🚀 About Me
-
-* 👨‍💻 Passionate about building real-world applications
-* 🧠 Strong interest in **Backend + AI/ML projects**
-* 🤝 Open to collaboration and learning opportunities
-* 🌱 Currently improving in **DSA & System Design**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Sarthak;CSE+Student;Backend+%7C+Python+%7C+Java;Building+Real+World+Projects" />
+</h1>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌌 About Me
 
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-
-### 🌐 Web Development
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+* 👨‍💻 CSE Student
+* 🔍 Interested in **Backend + Machine Learning**
+* 🌱 Currently learning **DSA & System Design**
+* 🤝 Open for collaboration
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Views
 
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarthakiee\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarthakiee&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakiee\&layout=compact\&theme=radical)
+---
 
-![Streak](https://streak-stats.demolab.com/?user=Sarthakiee\&theme=radical)
+## 💻 Tech Stack
+
+### 🚀 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,html,css,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarthakiee&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthakiee&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sarthakiee&theme=tokyonight&border_radius=10" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarthakiee\&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakiee&theme=react-dark&bg_color=0D1117&hide_border=true" />
+</p>
 
 ---
 
-## 🧠 Projects
+## 🧠 Featured Project
 
-| Project                     | Description                                                 | Tech Stack    |
-| --------------------------- | ----------------------------------------------------------- | ------------- |
-| ❤️ Heart Disease Prediction | ML-based system to predict heart disease using medical data | Python, Flask |
+<table>
+<tr>
+<td width="100%">
+
+### ❤️ Heart Disease Prediction
+
+🔹 Predicts heart disease using ML models
+🔹 Built with Flask for web deployment
+
+**Tech Stack:** Python, Flask
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Competitive Coding
 
-| Platform      | Profile           |
-| ------------- | ----------------- |
-| LeetCode      | https://leetcode.com/u/sarthak90884/ |
-| GeeksforGeeks | https://www.geeksforgeeks.org/profile/sarthakkzp6 |
-| CodeChef      | https://www.codechef.com/users/sarthak90884 |
+<table>
+<tr>
+<th>Platform</th>
+<th>Profile</th>
+</tr>
+
+<tr>
+<td>LeetCode</td>
+<td><a href="#">https://leetcode.com/u/sarthak90884/</a></td>
+</tr>
+
+<tr>
+<td>GeeksforGeeks</td>
+<td><a href="#">https://www.geeksforgeeks.org/profile/sarthakkzp6</a></td>
+</tr>
+
+<tr>
+<td>CodeChef</td>
+<td><a href="#">https://www.codechef.com/users/sarthak90884</a></td>
+</tr>
+
+</table>
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Sarthakiee)
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Sarthakiee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐ *Building the future, one commit at a time...*
+## ⚡ Fun Line
+
+<p align="center">
+  ⭐ Building the future, one commit at a time 🚀
+</p>
