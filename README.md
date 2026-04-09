@@ -25,12 +25,25 @@
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Tools
+### 🤖 AI/ML & Data Science
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,html,css,git,github" />
-</p>
+### 🔧 Tools & Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
 
+<br/>
 ---
 
 ## 📊 GitHub Analytics
