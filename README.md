@@ -19,7 +19,6 @@
 ---
 
 <br/>
----
 
 ## 👀 Profile Views
 
@@ -153,6 +152,14 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/Sarthakiee">Sarthak</a> - Building intelligent systems 🤖</i>
+</div>
 
 ## ⚡ Fun Line
 
