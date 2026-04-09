@@ -59,6 +59,30 @@
 
 ---
 
+## 👨‍💻 Competitive Coding Profiles
+
+<div align="center">
+  
+| Platform | Profile | Stats |
+|----------|---------|-------|
+| **LeetCode** | [@sarthak90884](https://leetcode.com/u/sarthak90884/) | ![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode) |
+| **GeeksforGeeks** | [@sarthakkzp6](https://www.geeksforgeeks.org/profile/sarthakkzp6) | ![GFG](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks) |
+| **CodeChef** | [@sarthak90884](https://www.codechef.com/users/sarthak90884) | ![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef) |
+
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/u/sarthak90884/">
+    <img width="48%" src="https://leetcard.jacoblin.cool/sarthak90884?theme=dark&font=Ubuntu&ext=contest"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/sarthakkzp6">
+    <img width="48%" src="https://gfgstatscard.vercel.app/sarthakkzp6?theme=dark"/>
+  </a>
+</div>
+
+<br/>
+
+
 ## 📈 Contribution Graph
 
 <p align="center">
