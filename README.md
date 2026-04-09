@@ -1,18 +1,24 @@
 <!-- 🔥 ANIMATED HEADER -->
 
+# 💫 About Me:
+👀AI/ML Development
+<br>
+👯 I’m looking to collaborate
+<br>
+🌱 Currently learning Machine Learning & Deep Learning
+<br>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Sarthak;CSE+Student;Backend+%7C+Python+%7C+Java;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sarthak;AI%2FML+Engineer+🤖;CSE+Student;Machine+Learning+Enthusiast+🚀" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarthakiee&style=for-the-badge&color=00d9ff"/>
+  <img src="https://img.shields.io/github/followers/Sarthakiee?style=for-the-badge&color=00ff88&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Sarthakiee?style=for-the-badge&color=ffdd00&logo=github"/>
+</div>
 ---
 
-## 🌌 About Me
-
-* 👨‍💻 CSE Student
-* 🔍 Interested in **Backend + Machine Learning**
-* 🌱 Currently learning **DSA & System Design**
-* 🤝 Open for collaboration
-
+<br/>
 ---
 
 ## 👀 Profile Views
